@@ -24,4 +24,6 @@ Through this enriching experience, I've honed my skills in transforming raw data
 
 I'm passionate about leveraging data to weave compelling narratives and empower businesses like Atliq Grands to flourish in competitive markets.
 
+LINK for ATLIQ GRANDS LIVE DASHBOARD:https://app.powerbi.com/groups/me/reports/14395d55-2ea4-41de-be09-13724623af24?experience=power-bi&clientSideAuth=0
+
 Thank you for your time! Let's connect if you're interested in discussing data analytics, Power BI, or any exciting opportunities! 🌟
